@@ -1,10 +1,10 @@
-# 🎌 Anime Show Data Scraper
+# Anime Show Data Scraper
 
 A web scraping project that collects detailed data about anime shows from public websites. This dataset can be used for analysis, machine learning, and building anime recommendation systems.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses Python libraries like **BeautifulSoup**, **Selenium**, and **Pandas** to extract anime-related data such as:
 
